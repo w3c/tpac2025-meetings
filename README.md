@@ -18,7 +18,7 @@ For TPAC 2025, groups can choose from among these meeting times:
 
 In the [form to request a meeting](https://github.com/w3c/tpac2024-meetings/issues/new?assignees=&labels=session&projects=&template=session.yml)
 please identify (1) the total number of slots you would like for your
-group meetings, and (2) which above the meeting times are **acceptable** for your
+group meetings, and (2) which of above the meeting times are **acceptable** for your
 meetings.
 
 To express **preferences**, please use the text input. Preferences can include (but are not limited to):
