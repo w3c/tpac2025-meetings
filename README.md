@@ -5,7 +5,10 @@ This repo is for collecting requests to schedule group meetings during [TPAC 202
 * [List of meeting requests](https://github.com/w3c/tpac2025-meetings/issues)
 * [Form to request a meeting](https://github.com/w3c/tpac2024-meetings/issues/new?assignees=&labels=session&projects=&template=session.yml)
 
-Note: We will use a different repo for breakout session proposals during TPAC 2025.
+Notes: 
+
+* We are using GitHub this year instead of WBS to collect meeting requests.
+* We will use a different repo for breakout session proposals during TPAC 2025.
 
 ## Identifying acceptable meeting times
 
