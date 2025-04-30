@@ -3,7 +3,7 @@
 This repo is for collecting requests to schedule group meetings during [TPAC 2025](https://www.w3.org/2025/11/TPAC/). We invite W3C group chairs and staff to use this repo. If you have any questions, please write to w3t-tpregister@w3.org.
 
 * [List of meeting requests](https://github.com/w3c/tpac2025-meetings/issues)
-* [Form to request a meeting](https://github.com/w3c/tpac2024-meetings/issues/new?assignees=&labels=session&projects=&template=session.yml)
+* [Form to request a meeting](https://github.com/w3c/tpac2025-meetings/issues/new?assignees=&labels=session&projects=&template=session.yml)
 
 Notes: 
 
