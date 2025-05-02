@@ -24,7 +24,7 @@ please identify (1) the total number of slots you would like for your
 group meetings, and (2) which of above the meeting times are **acceptable** for your
 meetings.
 
-To express **preferences**, please use the text input. Preferences can include (but are not limited to):
+To express **preferences**, please use the "Manual instructions for meeting planners" field. Preferences can include (but are not limited to):
 
 * Preferred slots. For example: "We prefer Monday and Tuesday all day, but can live with Tuesday and Thursday." Or "We would like to meet in the first two slots on all four days."
 * Groups to avoid conflict with
