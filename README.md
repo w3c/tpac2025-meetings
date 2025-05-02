@@ -14,9 +14,9 @@ Notes:
 
 For TPAC 2025, groups can choose from among these meeting times:
 
-* Monday: 9:00 - 10:30, 11:00 - 12:30, 13:30 - 15:00, 15:30 - 16:45
-* Tuesday: 9:45 - 11:00, 11:30 - 13:00, 14:00 - 16:00, 16:30 - 18:00
-* Thursday: 9:00 - 10:30, 11:00 - 12:30, 13:30 - 15:00, 15:30 - 16:45
+* Monday: 9:00 - 10:30, 11:00 - 12:30, 13:45 - 15:00, 15:30 - 16:45
+* Tuesday: 9:45 - 11:00, 11:30 - 13:00, 14:15 - 16:00, 16:30 - 18:00
+* Thursday: 9:00 - 10:30, 11:00 - 12:30, 13:45 - 15:00, 15:30 - 16:45
 * Friday: 9:00 - 10:30, 11:00 - 12:30, 14:00 - 16:00, 16:30 - 18:00
 
 In the [form to request a meeting](https://github.com/w3c/tpac2024-meetings/issues/new?assignees=&labels=session&projects=&template=session.yml)
