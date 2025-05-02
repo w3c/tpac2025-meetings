@@ -19,6 +19,8 @@ For TPAC 2025, groups can choose from among these meeting times:
 * Thursday: 9:00 - 10:30, 11:00 - 12:30, 13:45 - 15:00, 15:30 - 16:45
 * Friday: 9:00 - 10:30, 11:00 - 12:30, 14:00 - 16:00, 16:30 - 18:00
 
+On each day, groups will have breaks and lunches at the same times.
+
 In the [form to request a meeting](https://github.com/w3c/tpac2024-meetings/issues/new?assignees=&labels=session&projects=&template=session.yml)
 please identify (1) the total number of slots you would like for your
 group meetings, and (2) which of above the meeting times are **acceptable** for your
