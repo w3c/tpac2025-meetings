@@ -30,8 +30,6 @@ To express **preferences**, please use the "Other instructions for meeting plann
 
 * Preferred slots. For example: "We prefer Monday and Tuesday all day, but can live with Tuesday and Thursday." Or "We would like to meet in the first two slots on all four days."
 * Groups to avoid conflict with
-* Groups to meet jointly with
+* Groups to meet jointly with.
 
-The meeting planners will be adding and editing sessions in GitHub so
-that our scheduling tools can consume session descriptions and
-preferences.
+The meeting planners will be adding and editing sessions in GitHub so that our scheduling tools can consume session descriptions and preferences. For example, we will create distinct issues to represent joint meetings.
