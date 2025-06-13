@@ -8,7 +8,7 @@ body:
       value: |
         Please use this form to let the W3C staff know your group is not planning to meet during TPAC. The title should be the name of the group. The name must be the official [group name in the W3C system](https://www.w3.org/groups/), with some abbreviations supported (e.g., WG for Working Group). **Note**: Immediately after you create this issue we will close it; this is intentional.
 
-- type: textarea
+  - type: textarea
     id: comments
     attributes:
       label: Comments for the W3C staff (Optional)
