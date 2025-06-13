@@ -13,6 +13,6 @@ body:
     attributes:
       label: Comments for the W3C staff (Optional)
       description: |
-        If you wish to share any information with the W3C staff about your group's decision not to meet during TPAC, please use the space below.
+        If you wish to share any information about your group's decision not to meet during TPAC, please use the space below.
     validations:
       required: false
